@@ -21,6 +21,8 @@ Juicy, (Not)Beefy Burger
 
 1 tsp. Seasoning of your choice (optional)
 
+5 pickles
+
 
 ## Equipment needed:
 

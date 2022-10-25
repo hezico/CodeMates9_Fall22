@@ -28,6 +28,11 @@ Assorted toppings, such as butter, maple syrup, confectioners' sugar, honey, jam
 
 ## Equipment needed:
 
+Oven
+Mixing bowl
+Mixer
+Spatula
+
 
 ## Steps for preparation:
 

@@ -1,7 +1,7 @@
 Flipping Fantastic Pancakes
 
 ## Servings: 
-400 servings
+4 servings
 
 ## Time to prepare: 
 5 minutes
@@ -28,6 +28,11 @@ Assorted toppings, such as butter, maple syrup, confectioners' sugar, honey, jam
 
 
 ## Equipment needed:
+
+Oven
+Mixing bowl
+Mixer
+Spatula
 
 
 ## Steps for preparation:

@@ -15,6 +15,7 @@
 
 
 ### Notes:
+Goal: Prepare a simple but tasty breakfast. We don’t care how healthy! 
 Source: https://www.marthastewart.com/338185/basic-pancakes
 
 

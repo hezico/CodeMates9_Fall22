@@ -1,4 +1,4 @@
-# Replace with recipe name
+Flipping Fantastic Pancakes
 
 ## Servings: 
 400 servings

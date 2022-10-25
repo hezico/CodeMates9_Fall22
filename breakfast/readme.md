@@ -1,7 +1,7 @@
 Flipping Fantastic Pancakes
 
 ## Servings: 
-400 servings
+4 servings
 
 ## Time to prepare: 
 5 minutes

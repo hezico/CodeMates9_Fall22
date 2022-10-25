@@ -1,4 +1,4 @@
-# Replace with recipe name
+Juicy, (Not)Beefy Burger
 
 ## Servings: 
 

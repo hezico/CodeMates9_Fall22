@@ -1,6 +1,7 @@
 Juicy, (Not)Beefy Burger
 
 ## Servings: 
+5 servings
 
 ## Time to prepare: 
 

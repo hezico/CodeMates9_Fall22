@@ -31,6 +31,8 @@ Juicy, (Not)Beefy Burger
 
 ### Notes:
 
+Goals: Prepare a yummy and juicy dinner! 
+
 
 
 ### Codemates #

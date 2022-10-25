@@ -27,14 +27,21 @@ Juicy, (Not)Beefy Burger
 ## Equipment needed:
 
 Griddle pan or skillet
+
 Salt and pepper grinders
-Meat grinder
+
 Meat thermometer
+
 Spatula
+
 Burger press
+
 Favorite burger recipe
+
 Apron
+
 Cutting Board
+
 Plate for your burger
 
 ## Steps for preparation:

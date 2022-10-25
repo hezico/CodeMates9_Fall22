@@ -1,6 +1,7 @@
 # Replace with recipe name
 
 ## Servings: 
+400 servings
 
 ## Time to prepare: 
 5 minutes
